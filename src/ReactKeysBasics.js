@@ -125,6 +125,7 @@ function Index(){
         })
       }
     </div>
+    
   )
 }
 ReactDOM.render(<Index />, document.getElementById('root'))
