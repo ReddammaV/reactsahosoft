@@ -1,0 +1,20 @@
+.title {
+  color: red;
+}
+.title2 {
+  color: green;
+}
+.titleFont {
+  font-size: 3em;
+}
+
+.danger {
+  background: red;
+}
+.save {
+  background: green;
+}
+
+button {
+  color: blue;
+}
